@@ -1,0 +1,151 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.wraper{
+	height: 1780px;
+}
+.wraper1{
+	width: 80%;
+	height: 100%;
+	margin: auto;
+}
+.top{
+	height: 46px;
+	background-color: #003E77;
+	
+}
+.box{
+
+	vertical-align: middle;
+	width:580px;
+	left: 860px;
+	margin-right: 0px;
+	position: absolute;
+	top: 0px;
+	color: #FFFFFF;
+}
+.container{
+height: 35px;
+width: 300px;
+float: right;
+
+}
+.p1{
+	width: 280px;
+	margin-top: 12px;
+	margin-right: 0px;
+	position: absolute;
+}
+.parent{
+   position: relative;
+}
+.search{
+	width: 220px;
+	height: 35px;
+	top: 4px;
+	border-radius: 18px;
+	outline: none;
+	border:1px solid #ccc;
+	position: absolute;
+}
+.btn{
+	height: 35px;
+	width: 50px;
+	top: 5px;
+	position: absolute;
+	left: 160px;
+	background:url("../imgs/search.png") no-repeat 8px -2px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+.AD-img{
+	height: 140px;
+	background: url(../imgs/AD.jpg) no-repeat;
+}
+.navbar{
+	height: 60px;
+	
+}
+a{
+	color: black !important;
+}
+.ul1{
+	background-color: #F7B52B;
+	padding-left: 78px;
+
+}
+dl{
+	background-color: #F7B52B !important;
+}
+
+.loop{
+	height: 540px;
+}
+
+.notice{
+	height: 650px;
+}
+.part1{
+	height: 300px;
+	width: 100%;
+
+}
+.news {
+	width: 50%;
+	height: 300px;
+	float: left;
+}
+.repot{
+	width: 500px;
+	height: 300px;
+	float: right;
+	
+}
+.part2{
+	height: 300px;
+	width: 100%;
+	margin-top: 50px;
+}
+.want-ad{
+	width: 500px;
+	height: 300px;
+	float: right;
+}
+.note {
+	width: 50%;
+	height: 300px;
+	float: left;
+}
+.item1{background-color: #6C8FC9;
+width: 500px;
+height: 100px;
+	color: #6CBEE3;
+	vertical-align: middle;
+}
+.item2{background-color: #6CBEE3;
+width: 500px;
+height: 100px;
+	color: #A9D6C1;
+	vertical-align: middle;
+}
+.item3{background-color:  #A9D6C1;
+	width: 500px;
+	height: 100px;
+	color: #6C8FC9;
+	vertical-align: middle;
+}
+.foot{
+	height: 285px;
+	width: 100%;
+	background-color: #F7B52B;
+	margin-top: 50px;
+}
+.TOtop{
+	font-size: 90px ;
+	color: #6C8FC9;
+	position: fixed;
+	right: 5px;
+	bottom: 10px;
+}
