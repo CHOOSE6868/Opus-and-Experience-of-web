@@ -1,0 +1,81 @@
+@charset"utf-8";
+
+
+#navbar  li{
+			width: 9%;			
+			display:inline-block;
+			
+			
+			list-style: none;
+
+   
+
+		}
+		.oi{    position: absolute;
+    right: 12%;
+    margin-left: 0%;
+    width: 481px;
+    margin-right: -11%;
+top: 1%;}
+ .baidu{
+ 	    position: absolute;
+    bottom: 62%;
+    right: 42%;
+    width: 18%;
+
+ }
+ .info_list {
+    line-height: 30px;
+    position: relative;
+    top: 317px;
+    left: 37%;
+}
+.W_input {
+    border-radius: 2px 2px 2px 2px;
+    color: #808080;
+    height: 30px;
+    line-height:30px;
+    padding: 0 0 0 5px;
+    vertical-align: middle;
+    width: 350px;
+    height: 35px;
+}
+.W_login_form .username .W_input, .W_login_form .username .W_input:focus, .W_login_form .password .W_input, .W_login_form .password .W_input:focus {
+    background: none repeat scroll 0 center rgba(0, 0, 0, 0);
+    border-width: 0;
+    box-shadow: 0 0 #FFFFFF;
+    width: 165px;
+}
+#ftCon {
+    height: 50px;
+    position: absolute;
+    bottom: 47px;
+    text-align: left;
+    width: 100%;
+    margin: 0 auto;
+    z-index: 0;
+    overflow: hidden;
+}
+.ftCon-Wrapper {
+    overflow: hidden;
+    margin: 0 auto;
+    text-align: center;
+   
+}
+#ftConw {
+    text-align: center;
+    margin-left: 0;
+}
+#ftConw, #ftConw a {
+    color: #999;
+}
+#ftConw {
+    display: inline-block;
+    text-align: left;
+    margin-left: 33px;
+    line-height: 22px;
+    position: relative;
+    top: -2px;
+    left: -2%;
+   
+}
